@@ -50,7 +50,6 @@ export default function calculate(state = {}, action) {
 
       // initial state
     default:
-    console.log("default reducer triggerd");
     return state;
   
   }
